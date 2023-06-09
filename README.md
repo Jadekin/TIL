@@ -4,16 +4,13 @@ This repository is a **collection of short, daily learnings and insights** I've 
 
 ## Public Learning
 
-I strongly believe in the power of **Public Learning**, which embraces the practice of openly sharing and documenting one's learning journey on public platforms. 
+I strongly believe in the power of **Public Learning**, which embraces the practice of openly sharing and documenting one's learning journey on public platforms.
 
 By exposing oneself to vulnerability and actively engaging with the community through mediums like GitHub, chats, study programs, and more, **we contribute to a culture of collective growth and knowledge sharing**. This TIL repository is a testament to my commitment to practicing and embracing Public Learning, where I aim to inspire others, receive feedback, and foster collaboration within the wider learning community.
 
 ## Table of Contents
 
-- [JavaScript](#javascript)
-- [React](#react)
-- [React Native](#python)
-- [TypeScript](#git)
+- [React Native](https://github.com/Jadekin/TIL/tree/main/React%20Native)
 
 ## Navigating Through the Entries
 
@@ -24,6 +21,5 @@ Each entry is self-contained and provides a concise explanation of the learned c
 ## Searching for Specific Topics
 
 If you're looking for specific topics or keywords, you can use the search functionality provided. Each entry is tagged with relevant keywords, making it easier to find specific topics of interest. Simply use the search bar or the tags available in the repository to filter the entries.
-
 
 **Copyright (c) 2023 Karen Pinzás Morrongiello**
