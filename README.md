@@ -10,7 +10,8 @@ By exposing oneself to vulnerability and actively engaging with the community th
 
 ## Table of Contents
 
-- [React Native](https://github.com/Jadekin/TIL/tree/main/React%20Native)
+- [JavaScript](https://github.com/Jadekin/TIL/tree/main/javascript)
+- [React Native](https://github.com/Jadekin/TIL/tree/main/react-native)
 
 ## Navigating Through the Entries
 
