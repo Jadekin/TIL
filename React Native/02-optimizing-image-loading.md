@@ -7,6 +7,7 @@ Image source needs to be known at compile-time or during the initial rendering o
 When an image is imported using `require`, the image is **loaded synchronously during the build process**, which means the image is bundled with the application code and will be available immediately when the module is executed.
 
 - **Pros**:
+
   - The image is readily available without any additional network requests at runtime. It can be beneficial for small static images because there is no delay in loading the image when the component using it renders.
 
 - **Cons**:
@@ -17,6 +18,7 @@ When an image is imported using `require`, the image is **loaded synchronously d
 When the import is made using a `useEffect` hook, the image is **fetched asynchronously at runtime** when the hook is executed, which means the image is not bundled with your application code but fetched separately when needed.
 
 - **Pros**:
+
   - It can reduce the initial bundle size of your application because the images are not included upfront, resulting in faster initial load times, especially if you have a large number of images or the image files are large.
 
 - **Cons**:
@@ -24,4 +26,4 @@ When the import is made using a `useEffect` hook, the image is **fetched asynchr
 
 Finally, the best way to create a fixed reference and ensure good performance depends on the specific requirements of the image that needs to be loaded.
 
-Thanks @illAssad for inspiring this knowledge! :)
+Thanks [@illAssad](https://github.com/illAssad) for inspiring this knowledge! :)
