@@ -1,4 +1,4 @@
-# Loading images inside a useEffect hook
+# Optimizing Image Loading in React: Using require vs. useEffect
 
 Image source needs to be known at compile-time or during the initial rendering of the component, and for that reason, a fixed reference is required. But what is the best way to create this fixed reference and ensure good performance? There are two approaches: importing an image with `require` and doing it in a `useEffect` hook.
 
